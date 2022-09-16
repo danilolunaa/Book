@@ -24,7 +24,7 @@ body * {
 header {
     padding-top: 32px;
     text-align: center;
-    height: calc(120px + 32px);
+
     
 }
 
@@ -33,7 +33,7 @@ header {
 }
 
 .book-list img {
-    width: 300px;
+    width: 250px;
     border-radius: 12px;
 }
 
@@ -47,8 +47,8 @@ header {
 .book-list p {
     color: white;
     text-align: center;
-    margin-left: 200px;
-    margin-right: 200px;
+    margin-left: 100px;
+    margin-right: 100px;
     margin-top: 20px;
 }
 
