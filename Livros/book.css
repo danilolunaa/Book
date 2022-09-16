@@ -43,9 +43,7 @@ header {
 .book-list p {
     color: white;
     text-align: center;
-    margin-left: 200px;
-    margin-right: 200px;
-    margin-top: 20px;
+
 }
 
 .status #status {
