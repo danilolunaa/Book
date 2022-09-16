@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul {
+    list-style: none;
+}
+
+body {
+    background-image: url(../assets/bg.jpg);
+    background-position: top center;
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    background-color: #121214;
+}
+
+body * {
+    font-family: 'Inter', sans-serif;
+    line-height: 160%;
+}
+
+header {
+    padding-top: 32px;
+    text-align: center;
+    height: calc(120px + 32px);
+    
+}
+
+.book-list img {
+    width: 300px;
+    border-radius: 12px;
+}
+
+.book-list h2 {
+    color: white;
+    font-size: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.book-list p {
+    color: white;
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 20px;
+}
+
+.status #status {
+    color: rgb(202, 224, 1);
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
