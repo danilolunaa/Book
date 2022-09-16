@@ -28,6 +28,10 @@ header {
     
 }
 
+.book-list * {
+    font-size: auto;
+}
+
 .book-list img {
     width: 300px;
     border-radius: 12px;
@@ -43,7 +47,9 @@ header {
 .book-list p {
     color: white;
     text-align: center;
-
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 20px;
 }
 
 .status #status {
