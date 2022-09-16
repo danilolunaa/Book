@@ -37,9 +37,11 @@ header {
     border-radius: 12px;
 }
 
+
+
 .book-list h2 {
     color: white;
-    font-size: 30px;
+    font-size: 35px;
     margin-top: 20px;
     margin-bottom: 20px;
 }
@@ -47,14 +49,15 @@ header {
 .book-list p {
     color: white;
     text-align: center;
-    margin-left: 100px;
-    margin-right: 100px;
-    margin-top: 20px;
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-top: 25px;
+    font-size: 25px;
 }
 
 .status #status {
     color: rgb(202, 224, 1);
     text-align: center;
-    margin-bottom: 20px;
-    font-size: 20px;
+    margin-bottom: 25px;
+    font-size: 25px;
 }
