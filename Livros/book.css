@@ -45,6 +45,23 @@ section div img {
     border-radius: 20px;
 }
 
+section div img {
+    transition: transform .3s;
+}
+
+section div img:hover {
+    transform: scale(1.1);
+}
+
+section div h2 {
+    transition: transform .3s;
+}
+
+section div h2:hover {
+    transform: scale(1.1);
+}
+
+
 .book-list * {
     font-size: auto;
 }
@@ -55,10 +72,8 @@ section div img {
     margin-top: 20px;
 }
 
-
-
 .book-list h2 {
-    color: rgb(164, 71, 207);
+    color: rgb(169, 85, 207);
     font-size: 30px;
     margin-top: 20px;
     margin-bottom: 20px;
@@ -79,6 +94,7 @@ section div img {
     margin-bottom: 25px;
     font-size: 20px;
 }
+
 
 /* animation */
 
