@@ -9,11 +9,11 @@ ul {
 }
 
 body {
-    background-image: url(../assets/☆\ Brown\ aesthetic\ pc\ ☆.png);
+    background-image: ;
     background-position: top center;
     background-size: 100% auto;
     background-repeat: no-repeat;
-    background-color:  #543924;
+    background-color:  #724e32;
 }
 
 body * {
@@ -27,7 +27,7 @@ header {
 }
 
 section div img {
-    background-image: linear-gradient(90deg,  #bdb4a8 0%, #666286 50.52%, #3e4380 100%);
+    background-image: linear-gradient(90deg,  #bdb4a8 0%, #666286 50.52%, #2f325a 100%);
     padding: 7px;
     padding-bottom: 7px;
     border-radius: 20px;
@@ -61,7 +61,7 @@ section div h2:hover {
 }
 
 .book-list h2 {
-    color: #6c78ff;
+    color: #6770db;
     font-size: 26px;
     margin-top: 20px;
     margin-bottom: 20px;
