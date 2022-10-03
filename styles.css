@@ -8,6 +8,15 @@ ul {
     list-style: none;
 }
 
+.titulo {
+    margin: 0;
+    background-color: #46342b;
+    color: whitesmoke;
+    text-align: center;
+    font-family: 'Abril Fatface', cursive;
+    
+}
+
 body {
     background-image: url(./assets/solely\ Aesthetic\ desktop\ wallpaper\ Dark\ academia\ aesthetic.png);
     background-position: top center;
@@ -86,7 +95,7 @@ section {
 
 
 section div {
-    background-color: #412f26;
+    background-color: #46342b;
     padding: 32px;
     padding-top: 24px;
     border-radius: 8px;
