@@ -8,6 +8,15 @@ ul {
     list-style: none;
 }
 
+.titulo {
+    margin: 0;
+    background-color: #46342b;
+    color: whitesmoke;
+    text-align: center;
+    font-family: 'Abril Fatface', cursive;
+    
+}
+
 body {
     background-position: top center;
     background-size: 100% auto;
