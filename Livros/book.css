@@ -17,6 +17,11 @@ ul {
     
 }
 
+.note {
+    color: #ffffff;
+    background-color: #46342b;
+}
+
 body {
     background-position: top center;
     background-size: 100% auto;
