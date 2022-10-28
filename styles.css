@@ -73,7 +73,7 @@ main{
 
     display: flex;
 
-    padding-left: 70px;
+    padding-left: 100px;
    
     text-align: center;
     
@@ -130,7 +130,7 @@ section ul li:hover {
 }
 
 .now-list img {
-    width: 150px;
+    width: 120px;
     border-radius: 8px;
 }
 
