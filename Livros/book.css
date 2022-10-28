@@ -34,11 +34,13 @@ header {
     text-align: center;
 }
 
-section div img {
-    background-image: linear-gradient(90deg,  #bdb4a8 0%, #666286 50.52%, #2f325a 100%);
-    padding: 7px;
-    padding-bottom: 7px;
-    border-radius: 20px;
+a {
+    background-color: #46342b;
+    border-radius: 25px;
+    padding-top: 315px;
+    padding-bottom: 5px;
+    padding-right: 10px;
+    padding-left: 10px;
 }
 
 section div img {
@@ -69,11 +71,12 @@ section div h2:hover {
 }
 
 .book-list h2 {
-    color: #2f325a;
+    color: #46342b;
     font-size: 26px;
     margin-top: 20px;
     margin-bottom: 20px;
 }
+
 
 .book-list p {
     color: rgb(214, 209, 209);
